@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg_dark">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <!-- AnTuTu Section -->
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+            android:text="AnTuTu Benchmark" android:textColor="#E53935"
+            android:textSize="16sp" android:textStyle="bold" android:layout_marginBottom="8dp" />
+
+        <com.google.android.material.textfield.TextInputLayout android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:hint="Total Score" style="@style/EditFieldStyle"
+            android:layout_marginBottom="6dp">
+            <com.google.android.material.textfield.TextInputEditText android:id="@+id/etAntutuTotal"
+                android:layout_width="match_parent" android:layout_height="wrap_content"
+                android:textColor="@color/text_primary" android:inputType="number" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content"
+            android:orientation="horizontal" android:layout_marginBottom="6dp">
+            <com.google.android.material.textfield.TextInputLayout android:layout_width="0dp"
+                android:layout_height="wrap_content" android:layout_weight="1" android:hint="CPU"
+                style="@style/EditFieldStyle" android:layout_marginEnd="4dp">
+                <com.google.android.material.textfield.TextInputEditText android:id="@+id/etAntutuCpu"
+                    android:layout_width="match_parent" android:layout_height="wrap_content"
+                    android:textColor="@color/text_primary" android:inputType="number" />
+            </com.google.android.material.textfield.TextInputLayout>
+            <com.google.android.material.textfield.TextInputLayout android:layout_width="0dp"
+                android:layout_height="wrap_content" android:layout_weight="1" android:hint="GPU"
+                style="@style/EditFieldStyle" android:layout_marginStart="4dp">
+                <com.google.android.material.textfield.TextInputEditText android:id="@+id/etAntutuGpu"
+                    android:layout_width="match_parent" android:layout_height="wrap_content"
+                    android:textColor="@color/text_primary" android:inputType="number" />
+            </com.google.android.material.textfield.TextInputLayout>
+        </LinearLayout>
+
+        <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content"
+            android:orientation="horizontal" android:layout_marginBottom="10dp">
+            <com.google.android.material.textfield.TextInputLayout android:layout_width="0dp"
+                android:layout_height="wrap_content" android:layout_weight="1" android:hint="MEM"
+                style="@style/EditFieldStyle" android:layout_marginEnd="4dp">
+                <com.google.android.material.textfield.TextInputEditText android:id="@+id/etAntutuMem"
+                    android:layout_width="match_parent" android:layout_height="wrap_content"
+                    android:textColor="@color/text_primary" android:inputType="number" />
+            </com.google.android.material.textfield.TextInputLayout>
+            <com.google.android.material.textfield.TextInputLayout android:layout_width="0dp"
+                android:layout_height="wrap_content" android:layout_weight="1" android:hint="UX"
+                style="@style/EditFieldStyle" android:layout_marginStart="4dp">
+                <com.google.android.material.textfield.TextInputEditText android:id="@+id/etAntutuUx"
+                    android:layout_width="match_parent" android:layout_height="wrap_content"
+                    android:textColor="@color/text_primary" android:inputType="number" />
+            </com.google.android.material.textfield.TextInputLayout>
+        </LinearLayout>
+
+        <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content"
+            android:orientation="horizontal" android:layout_marginBottom="16dp">
+            <Button android:id="@+id/btnGenerateAntutu" android:layout_width="0dp"
+                android:layout_height="44dp" android:layout_weight="1" android:text="Preview"
+                android:textColor="@color/text_primary" android:background="@drawable/btn_secondary_bg"
+                android:layout_marginEnd="4dp" />
+            <Button android:id="@+id/btnSaveAntutu" android:layout_width="0dp"
+                android:layout_height="44dp" android:layout_weight="1" android:text="💾 Simpan"
+                android:textColor="@color/bg_dark" android:background="@drawable/btn_save_bg"
+                android:layout_marginStart="4dp" />
+        </LinearLayout>
+
+        <!-- Geekbench Section -->
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+            android:text="Geekbench 6" android:textColor="#4CAF50"
+            android:textSize="16sp" android:textStyle="bold" android:layout_marginBottom="8dp" />
+
+        <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content"
+            android:orientation="horizontal" android:layout_marginBottom="10dp">
+            <com.google.android.material.textfield.TextInputLayout android:layout_width="0dp"
+                android:layout_height="wrap_content" android:layout_weight="1" android:hint="Single-Core"
+                style="@style/EditFieldStyle" android:layout_marginEnd="4dp">
+                <com.google.android.material.textfield.TextInputEditText android:id="@+id/etGbSingle"
+                    android:layout_width="match_parent" android:layout_height="wrap_content"
+                    android:textColor="@color/text_primary" android:inputType="number" />
+            </com.google.android.material.textfield.TextInputLayout>
+            <com.google.android.material.textfield.TextInputLayout android:layout_width="0dp"
+                android:layout_height="wrap_content" android:layout_weight="1" android:hint="Multi-Core"
+                style="@style/EditFieldStyle" android:layout_marginStart="4dp">
+                <com.google.android.material.textfield.TextInputEditText android:id="@+id/etGbMulti"
+                    android:layout_width="match_parent" android:layout_height="wrap_content"
+                    android:textColor="@color/text_primary" android:inputType="number" />
+            </com.google.android.material.textfield.TextInputLayout>
+        </LinearLayout>
+
+        <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content"
+            android:orientation="horizontal" android:layout_marginBottom="16dp">
+            <Button android:id="@+id/btnGenerateGeekbench" android:layout_width="0dp"
+                android:layout_height="44dp" android:layout_weight="1" android:text="Preview"
+                android:textColor="@color/text_primary" android:background="@drawable/btn_secondary_bg"
+                android:layout_marginEnd="4dp" />
+            <Button android:id="@+id/btnSaveGeekbench" android:layout_width="0dp"
+                android:layout_height="44dp" android:layout_weight="1" android:text="💾 Simpan"
+                android:textColor="@color/bg_dark" android:background="@drawable/btn_save_bg"
+                android:layout_marginStart="4dp" />
+        </LinearLayout>
+
+        <!-- Preview -->
+        <ImageView android:id="@+id/ivBenchmarkPreview"
+            android:layout_width="match_parent" android:layout_height="wrap_content"
+            android:visibility="gone" android:adjustViewBounds="true"
+            android:scaleType="fitXY" android:layout_marginBottom="16dp" />
+
+    </LinearLayout>
+</ScrollView>

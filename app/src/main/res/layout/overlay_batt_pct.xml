@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Overlay notif baterai tiap 5% - posisi tengah atas -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:background="@drawable/bg_waifu_overlay"
+    android:padding="9dp"
+    android:gravity="center_vertical">
+
+    <!-- Foto waifu bulat 86dp (2x) -->
+    <androidx.cardview.widget.CardView
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="77dp"
+        android:layout_height="77dp"
+        android:layout_marginEnd="9dp"
+        app:cardCornerRadius="38.5dp"
+        app:cardElevation="0dp"
+        app:cardBackgroundColor="#00000000">
+
+        <ImageView
+            android:id="@+id/ivBattPct"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/waifu_batt_full"
+            android:scaleType="fitCenter" />
+
+    </androidx.cardview.widget.CardView>
+
+    <!-- Text info -->
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center_vertical">
+
+        <TextView
+            android:id="@+id/tvBattPctMsg"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="🔋 Baterai 100%"
+            android:textColor="#00FF88"
+            android:textSize="9sp"
+            android:textStyle="bold"
+            android:maxLines="1" />
+
+        <TextView
+            android:id="@+id/tvBattPctDetail"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Baterai kamu sayang~"
+            android:textColor="#CCCCCC"
+            android:textSize="9sp"
+            android:layout_marginTop="2dp" />
+
+    </LinearLayout>
+
+</LinearLayout>

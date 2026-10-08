@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent_green">#00FF88</color>
+    <color name="bg_dark">#111111</color>
+    <color name="btn_edit_color">#2A2A2A</color>
+    <color name="card_dark">#1E1E1E</color>
+    <color name="progress_bg">#333333</color>
+    <color name="switch_thumb_off">#888888</color>
+    <color name="switch_thumb_on">#00FF88</color>
+    <color name="switch_track_off">#33888888</color>
+    <color name="switch_track_on">#3300FF88</color>
+    <color name="text_hint">#666666</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#AAAAAA</color>
+    <string name="app_name">Settings</string>
+    <style name="EditFieldStyle" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense">
+        <item name="boxStrokeColor">#333333</item>
+        <item name="hintTextColor">@color/text_hint</item>
+        <item name="boxBackgroundColor">#1A1A1A</item>
+        <item name="android:textColorHint">@color/text_hint</item>
+    </style>
+    <style name="Theme.XGPUEngine" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/accent_green</item>
+        <item name="colorPrimaryVariant">@color/accent_green</item>
+        <item name="colorOnPrimary">@color/bg_dark</item>
+        <item name="colorSurface">@color/card_dark</item>
+        <item name="android:windowBackground">@color/bg_dark</item>
+        <item name="android:statusBarColor">@color/bg_dark</item>
+        <item name="android:navigationBarColor">@color/bg_dark</item>
+    </style>
+</resources>

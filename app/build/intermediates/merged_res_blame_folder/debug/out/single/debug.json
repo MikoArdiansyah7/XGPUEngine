@@ -1,0 +1,418 @@
+[
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\drawable_bg_device_image.xml.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\drawable\\bg_device_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\drawable_tompel_active_land.png.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\drawable\\tompel_active_land.png"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\drawable_waifu_low_7.png.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\drawable\\waifu_low_7.png"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\drawable_waifu_low_16.png.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\drawable\\waifu_low_16.png"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\drawable_waifu_batt_pct_75.png.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\drawable\\waifu_batt_pct_75.png"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\drawable_waifu_batt_pct_45.png.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\drawable\\waifu_batt_pct_45.png"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\drawable_waifu_ping_good.png.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\drawable\\waifu_ping_good.png"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\drawable_bg_badge_circle.xml.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\drawable\\bg_badge_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\drawable_tompel_inactive_land.png.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\drawable\\tompel_inactive_land.png"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\drawable_tompel_inactive_land_right.png.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\drawable\\tompel_inactive_land_right.png"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\drawable_waifu_low_8.png.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\drawable\\waifu_low_8.png"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\drawable_bg_fps_overlay.xml.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\drawable\\bg_fps_overlay.xml"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\drawable_waifu_batt_low.png.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\drawable\\waifu_batt_low.png"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\drawable_waifu_low_15.png.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\drawable\\waifu_low_15.png"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\drawable_android_badge.png.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\drawable\\android_badge.png"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\layout_overlay_batt_pct.xml.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\layout\\overlay_batt_pct.xml"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\drawable_waifu_default.png.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\drawable\\waifu_default.png"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\drawable_waifu_batt_pct_90.png.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\drawable\\waifu_batt_pct_90.png"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\drawable_waifu_batt_pct_85.png.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\drawable\\waifu_batt_pct_85.png"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\color_switch_thumb_selector.xml.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\color\\switch_thumb_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\drawable_waifu_low_9.png.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\drawable\\waifu_low_9.png"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\drawable_waifu_low_21.png.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\drawable\\waifu_low_21.png"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\layout_fragment_benchmark.xml.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\layout\\fragment_benchmark.xml"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\layout_overlay_waifu.xml.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\layout\\overlay_waifu.xml"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\drawable_waifu_ping_lag_parah.png.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\drawable\\waifu_ping_lag_parah.png"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\drawable_waifu_low_6.png.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\drawable\\waifu_low_6.png"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\drawable_waifu_charging.png.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\drawable\\waifu_charging.png"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\drawable_waifu_low_11.png.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\drawable\\waifu_low_11.png"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\drawable_waifu_ping_mid.png.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\drawable\\waifu_ping_mid.png"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\drawable_waifu_batt_unplug.png.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\drawable\\waifu_batt_unplug.png"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\drawable_waifu_low_3.png.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\drawable\\waifu_low_3.png"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\drawable_waifu_batt_pct_95.png.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\drawable\\waifu_batt_pct_95.png"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\drawable_waifu_low_17.png.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\drawable\\waifu_low_17.png"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\drawable_waifu_baterai_penuh.png.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\drawable\\waifu_baterai_penuh.png"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\drawable_waifu_low_14.png.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\drawable\\waifu_low_14.png"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\drawable_bg_waifu_overlay.xml.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\drawable\\bg_waifu_overlay.xml"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\drawable_tompel_active_land_flip.png.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\drawable\\tompel_active_land_flip.png"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\layout_overlay_fps.xml.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\layout\\overlay_fps.xml"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\drawable_waifu_low_12.png.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\drawable\\waifu_low_12.png"
+    },
+    {
+        "merged": "com.xgpu.engine.app-merged_res-37:/layout_overlay_tompel.xml.flat",
+        "source": "com.xgpu.engine.app-main-39:/layout/overlay_tompel.xml"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\drawable_ic_notification_color.png.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\drawable\\ic_notification_color.png"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\drawable_waifu_batt_pct_80.png.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\drawable\\waifu_batt_pct_80.png"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\drawable_ic_android_badge.xml.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\drawable\\ic_android_badge.xml"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\drawable_waifu_ping_stabil.png.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\drawable\\waifu_ping_stabil.png"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\drawable_btn_edit_bg.xml.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\drawable\\btn_edit_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\drawable_ic_btn_back1.png.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\drawable\\ic_btn_back1.png"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\color_switch_track_selector.xml.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\color\\switch_track_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\drawable_android_badge_16.png.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\drawable\\android_badge_16.png"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\drawable_ic_btn_back.png.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\drawable\\ic_btn_back.png"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\drawable_waifu_low_4.png.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\drawable\\waifu_low_4.png"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\layout_overlay_tompel.xml.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\layout\\overlay_tompel.xml"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\drawable_tompel_inactive_land_flip.png.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\drawable\\tompel_inactive_land_flip.png"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\drawable_ic_notification.png.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\drawable\\ic_notification.png"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\drawable_waifu_batt_pct_65.png.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\drawable\\waifu_batt_pct_65.png"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\drawable_tompel_inactive.png.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\drawable\\tompel_inactive.png"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\drawable_bg_waifu_img.xml.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\drawable\\bg_waifu_img.xml"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\drawable_tompel_active.png.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\drawable\\tompel_active.png"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\drawable_waifu_ping_bad.png.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\drawable\\waifu_ping_bad.png"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\drawable_tompel_active_flip.png.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\drawable\\tompel_active_flip.png"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\drawable_tompel_active_land_right.png.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\drawable\\tompel_active_land_right.png"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\drawable_waifu_batt_pct_55.png.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\drawable\\waifu_batt_pct_55.png"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\drawable_waifu_low_5.png.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\drawable\\waifu_low_5.png"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\drawable_waifu_low_19.png.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\drawable\\waifu_low_19.png"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\drawable_android_badge_17.png.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\drawable\\android_badge_17.png"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\layout_activity_tools.xml.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\layout\\activity_tools.xml"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\drawable_waifu_batt_pct_40.png.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\drawable\\waifu_batt_pct_40.png"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\drawable_ic_phone_placeholder.xml.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\drawable\\ic_phone_placeholder.xml"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\drawable_waifu_batt_full.png.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\drawable\\waifu_batt_full.png"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\drawable_btn_badge_selected.xml.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\drawable\\btn_badge_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\drawable_waifu_low_2.png.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\drawable\\waifu_low_2.png"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\drawable_waifu_batt_pct_100.png.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\drawable\\waifu_batt_pct_100.png"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\drawable_fg_image_border.xml.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\drawable\\fg_image_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\drawable_tompel_inactive_flip.png.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\drawable\\tompel_inactive_flip.png"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\drawable_waifu_low_10.png.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\drawable\\waifu_low_10.png"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\drawable_waifu_batt_charging.png.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\drawable\\waifu_batt_charging.png"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\drawable_waifu_cabut_cas.png.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\drawable\\waifu_cabut_cas.png"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\drawable_tompel_inactive_land_right_flip.png.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\drawable\\tompel_inactive_land_right_flip.png"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\drawable_waifu_low_18.png.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\drawable\\waifu_low_18.png"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\drawable_waifu_low_1.png.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\drawable\\waifu_low_1.png"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\drawable_waifu_batt_pct_70.png.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\drawable\\waifu_batt_pct_70.png"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\drawable_waifu_low_13.png.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\drawable\\waifu_low_13.png"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\drawable_ic_app_logo.png.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\drawable\\ic_app_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\drawable_btn_secondary_bg.xml.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\drawable\\btn_secondary_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\drawable_waifu_batt_pct_35.png.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\drawable\\waifu_batt_pct_35.png"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\layout_overlay_waifu_cd.xml.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\layout\\overlay_waifu_cd.xml"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\drawable_waifu_batt_pct_60.png.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\drawable\\waifu_batt_pct_60.png"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\drawable_btn_save_bg.xml.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\drawable\\btn_save_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\drawable_waifu_baterai_lowbat.png.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\drawable\\waifu_baterai_lowbat.png"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\drawable_tompel_active_land_right_flip.png.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\drawable\\tompel_active_land_right_flip.png"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\drawable_ic_verified.xml.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\drawable\\ic_verified.xml"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\drawable_waifu_batt_pct_50.png.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\drawable\\waifu_batt_pct_50.png"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\drawable_waifu_low_20.png.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\drawable\\waifu_low_20.png"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-merged_res-37:\\drawable_waifu_ping_lag_sedikit.png.flat",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\drawable\\waifu_ping_lag_sedikit.png"
+    }
+]

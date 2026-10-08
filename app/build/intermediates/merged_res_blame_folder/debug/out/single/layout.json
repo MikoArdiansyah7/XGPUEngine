@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-mergeDebugResources-36:\\layout\\overlay_batt_pct.xml",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\layout\\overlay_batt_pct.xml"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-mergeDebugResources-36:\\layout\\overlay_waifu.xml",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\layout\\overlay_waifu.xml"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-mergeDebugResources-36:\\layout\\overlay_fps.xml",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\layout\\overlay_fps.xml"
+    },
+    {
+        "merged": "com.xgpu.engine.app-mergeDebugResources-36:/layout/overlay_tompel.xml",
+        "source": "com.xgpu.engine.app-main-39:/layout/overlay_tompel.xml"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-mergeDebugResources-36:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-mergeDebugResources-36:\\layout\\overlay_tompel.xml",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\layout\\overlay_tompel.xml"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-mergeDebugResources-36:\\layout\\overlay_waifu_cd.xml",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\layout\\overlay_waifu_cd.xml"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-mergeDebugResources-36:\\layout\\fragment_benchmark.xml",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\layout\\fragment_benchmark.xml"
+    },
+    {
+        "merged": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-mergeDebugResources-36:\\layout\\activity_tools.xml",
+        "source": "C:\\Users\\E15\\.gradle\\daemon\\8.2\\com.xgpu.engine.app-main-39:\\layout\\activity_tools.xml"
+    }
+]

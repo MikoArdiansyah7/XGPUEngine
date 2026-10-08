@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:background="@drawable/bg_waifu_overlay"
+    android:padding="9dp"
+    android:gravity="center_vertical">
+
+    <!-- Foto waifu bulat 86dp (2x dari 43dp) -->
+    <androidx.cardview.widget.CardView
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="77dp"
+        android:layout_height="77dp"
+        android:layout_marginEnd="9dp"
+        app:cardCornerRadius="38.5dp"
+        app:cardElevation="0dp"
+        app:cardBackgroundColor="#00000000">
+
+        <ImageView
+            android:id="@+id/ivWaifu"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/waifu_default"
+            android:scaleType="fitCenter" />
+
+    </androidx.cardview.widget.CardView>
+
+    <!-- Text info -->
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center_vertical">
+
+        <TextView
+            android:id="@+id/tvWaifuMessage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="PING Stabil Sayanggg 💚"
+            android:textColor="#FFFFFF"
+            android:textSize="9sp"
+            android:textStyle="bold"
+            android:maxLines="2" />
+
+        <TextView
+            android:id="@+id/tvWaifuDetail"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="12 ms"
+            android:textColor="#CCCCCC"
+            android:textSize="9sp"
+            android:layout_marginTop="2dp" />
+
+    </LinearLayout>
+
+</LinearLayout>

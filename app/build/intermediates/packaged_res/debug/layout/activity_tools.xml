@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/bg_dark">
+
+    <!-- Header -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:padding="16dp">
+
+        <ImageButton
+            android:id="@+id/btnToolsBack"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
+            android:src="@drawable/ic_btn_back"
+            android:background="@android:color/transparent"
+            android:scaleType="fitCenter"
+            android:layout_marginEnd="16dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Tools"
+            android:textColor="@color/text_primary"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+
+    <!-- Tab buttons -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingStart="12dp"
+        android:paddingEnd="12dp"
+        android:paddingBottom="8dp">
+
+        <Button
+            android:id="@+id/btnTabBenchmark"
+            android:layout_width="0dp"
+            android:layout_height="36dp"
+            android:layout_weight="1"
+            android:text="📊"
+            android:textSize="16sp"
+            android:background="@drawable/btn_secondary_bg"
+            android:layout_marginEnd="4dp" />
+
+        <Button
+            android:id="@+id/btnTabShareCard"
+            android:layout_width="0dp"
+            android:layout_height="36dp"
+            android:layout_weight="1"
+            android:text="🎴"
+            android:textSize="16sp"
+            android:background="@drawable/btn_secondary_bg"
+            android:layout_marginEnd="4dp" />
+
+        <Button
+            android:id="@+id/btnTabCustomText"
+            android:layout_width="0dp"
+            android:layout_height="36dp"
+            android:layout_weight="1"
+            android:text="✏️"
+            android:textSize="16sp"
+            android:background="@drawable/btn_secondary_bg"
+            android:layout_marginEnd="4dp" />
+
+        <Button
+            android:id="@+id/btnTabRest"
+            android:layout_width="0dp"
+            android:layout_height="36dp"
+            android:layout_weight="1"
+            android:text="😴"
+            android:textSize="16sp"
+            android:background="@drawable/btn_secondary_bg" />
+
+    </LinearLayout>
+
+    <!-- Tab labels -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingStart="12dp"
+        android:paddingEnd="12dp"
+        android:paddingBottom="8dp">
+
+        <TextView android:layout_width="0dp" android:layout_height="wrap_content"
+            android:layout_weight="1" android:text="Benchmark" android:textColor="@color/text_hint"
+            android:textSize="9sp" android:gravity="center" />
+        <TextView android:layout_width="0dp" android:layout_height="wrap_content"
+            android:layout_weight="1" android:text="Share Card" android:textColor="@color/text_hint"
+            android:textSize="9sp" android:gravity="center" />
+        <TextView android:layout_width="0dp" android:layout_height="wrap_content"
+            android:layout_weight="1" android:text="Custom Text" android:textColor="@color/text_hint"
+            android:textSize="9sp" android:gravity="center" />
+        <TextView android:layout_width="0dp" android:layout_height="wrap_content"
+            android:layout_weight="1" android:text="Istirahat" android:textColor="@color/text_hint"
+            android:textSize="9sp" android:gravity="center" />
+
+    </LinearLayout>
+
+    <!-- Fragment container -->
+    <FrameLayout
+        android:id="@+id/toolsContainer"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+</LinearLayout>
